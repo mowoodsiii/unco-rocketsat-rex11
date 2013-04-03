@@ -1,0 +1,557 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.22)  9 APR 2012 02:36
+entering extended mode
+**C:/Users/M.*Woods*III/Dropbox/UNC*ReX*Official*Presentation*Media/Paper/ReX*P
+aper.tex
+
+("C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/ReX P
+aper.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\New folder\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\New folder\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\New folder\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\New folder\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\New folder\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\New folder\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\New folder\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\New folder\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\New folder\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\New folder\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\New folder\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\New folder\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files\New folder\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\New folder\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Program Files\New folder\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\New folder\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\New folder\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+("C:\Program Files\New folder\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files\New folder\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\New folder\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+("C:\Program Files\New folder\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) ("C:\Program Files\New folder\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\New folder\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\New folder\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\New folder\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks22
+
+("C:\Program Files\New folder\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\New folder\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+("C:\Users\M. Woods III\Dropbox\UNC ReX Official Presentation Media\Paper\ReX P
+aper.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
+ ("C:\Program Files\New folder\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\New folder\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box30
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Info: Redefining \celsius on input line 21.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 21.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 21.
+Package gensymb Info: Using \upOmega for \ohm on input line 21.
+
+Package gensymb Warning: Not defining \micro.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=15.2pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 26
+.
+("C:\Program Files\New folder\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 26
+.
+
+("C:\Program Files\New folder\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 26
+.
+
+("C:\Program Files\New folder\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 26
+.
+
+("C:\Program Files\New folder\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+
+<CapsuleDrawing.png, id=1, 454.69875pt x 483.30562pt>
+File: CapsuleDrawing.png Graphic file (type png)
+ <use CapsuleDrawing.png>
+Package pdftex.def Info: CapsuleDrawing.png used on input line 28.
+(pdftex.def)             Requested size: 199.16928pt x 211.7038pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+
+<UNC.jpg, id=3, 432.11438pt x 314.67563pt>
+File: UNC.jpg Graphic file (type jpg)
+ <use UNC.jpg>
+Package pdftex.def Info: UNC.jpg used on input line 58.
+(pdftex.def)             Requested size: 78.24507pt x 56.98007pt.
+
+<NASA.png, id=4, 121.20282pt x 101.62968pt>
+File: NASA.png Graphic file (type png)
+ <use NASA.png>
+Package pdftex.def Info: NASA.png used on input line 63.
+(pdftex.def)             Requested size: 71.13188pt x 59.64774pt.
+ [1
+
+{C:/Users/M. Woods III/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/U
+sers/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/CapsuleDraw
+ing.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Pap
+er/UNC.jpg> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/
+Paper/NASA.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+
+("C:\Users\M. Woods III\Dropbox\UNC ReX Official Presentation Media\Paper\ReX P
+aper.toc"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+)
+\tf@toc=\write3
+ [1] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[5] [6] [7] [8] [9] [10] [11] [12] [13]
+<ConceptOfFlight.png, id=59, 1412.27625pt x 943.525pt>
+File: ConceptOfFlight.png Graphic file (type png)
+
+<use ConceptOfFlight.png>
+Package pdftex.def Info: ConceptOfFlight.png used on input line 234.
+(pdftex.def)             Requested size: 284.52756pt x 190.08377pt.
+
+<StitchedAirDensity.png, id=60, 800.9925pt x 639.89063pt>
+File: StitchedAirDensity.png Graphic file (type png)
+
+<use StitchedAirDensity.png>
+Package pdftex.def Info: StitchedAirDensity.png used on input line 243.
+(pdftex.def)             Requested size: 284.52756pt x 227.30434pt.
+ [14 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/C
+onceptOfFlight.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentatio
+n Media/Paper/StitchedAirDensity.png>]
+<BallDrop_120km.jpg, id=66, 963.6pt x 505.13719pt>
+File: BallDrop_120km.jpg Graphic file (type jpg)
+ <use BallDrop_120km.jpg>
+Package pdftex.def Info: BallDrop_120km.jpg used on input line 254.
+(pdftex.def)             Requested size: 398.33858pt x 208.811pt.
+
+<KinematicsBallDrop_120km.jpg, id=67, 1284.8pt x 671.50874pt>
+File: KinematicsBallDrop_120km.jpg Graphic file (type jpg)
+
+<use KinematicsBallDrop_120km.jpg>
+Package pdftex.def Info: KinematicsBallDrop_120km.jpg used on input line 257.
+(pdftex.def)             Requested size: 398.33858pt x 208.19629pt.
+ [15 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/B
+allDrop_120km.jpg> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation
+ Media/Paper/KinematicsBallDrop_120km.jpg>]
+<ThermalTransfer.jpg, id=71, 1284.8pt x 671.50874pt>
+File: ThermalTransfer.jpg Graphic file (type jpg)
+ <use ThermalTransfer.jpg>
+Package pdftex.def Info: ThermalTransfer.jpg used on input line 267.
+(pdftex.def)             Requested size: 398.33858pt x 208.19629pt.
+
+<Prototypes.png, id=72, 696.6828pt x 349.7868pt>
+File: Prototypes.png Graphic file (type png)
+ <use Prototypes.png>
+Package pdftex.def Info: Prototypes.png used on input line 276.
+(pdftex.def)             Requested size: 398.33858pt x 199.99968pt.
+ [16 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/T
+hermalTransfer.jpg> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentatio
+n Media/Paper/Prototypes.png (PNG copy)>]
+<HeatShieldTest.jpg, id=76, 752.8125pt x 514.17094pt>
+File: HeatShieldTest.jpg Graphic file (type jpg)
+ <use HeatShieldTest.jpg>
+Package pdftex.def Info: HeatShieldTest.jpg used on input line 287.
+(pdftex.def)             Requested size: 312.9803pt x 213.76924pt.
+
+<HeatShieldTemperatures.png, id=77, 357.58594pt x 264.99pt>
+File: HeatShieldTemperatures.png Graphic file (type png)
+
+<use HeatShieldTemperatures.png>
+Package pdftex.def Info: HeatShieldTemperatures.png used on input line 290.
+(pdftex.def)             Requested size: 312.9803pt x 231.94655pt.
+ [17 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/H
+eatShieldTest.jpg> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation
+ Media/Paper/HeatShieldTemperatures.png>]
+<CapsuleCAD.png, id=82, 719.68875pt x 619.31375pt>
+File: CapsuleCAD.png Graphic file (type png)
+ <use CapsuleCAD.png>
+Package pdftex.def Info: CapsuleCAD.png used on input line 300.
+(pdftex.def)             Requested size: 327.20668pt x 281.58029pt.
+
+<HarnessLaunch1.png, id=83, 864.22874pt x 599.23875pt>
+File: HarnessLaunch1.png Graphic file (type png)
+
+<use HarnessLaunch1.png>
+Package pdftex.def Info: HarnessLaunch1.png used on input line 309.
+(pdftex.def)             Requested size: 205.16414pt x 142.26378pt.
+
+<HarnessLaunch2.png, id=84, 1078.0275pt x 663.47874pt>
+File: HarnessLaunch2.png Graphic file (type png)
+
+<use HarnessLaunch2.png>
+Package pdftex.def Info: HarnessLaunch2.png used on input line 310.
+(pdftex.def)             Requested size: 231.14632pt x 142.26378pt.
+ [18 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/C
+apsuleCAD.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Med
+ia/Paper/HarnessLaunch1.png (PNG copy)> <C:/Users/M. Woods III/Dropbox/UNC ReX 
+Official Presentation Media/Paper/HarnessLaunch2.png (PNG copy)>] <HarnessCAD.p
+ng, id=90, 448.5558pt x 435.0654pt>
+File: HarnessCAD.png Graphic file (type png)
+
+<use HarnessCAD.png>
+Package pdftex.def Info: HarnessCAD.png used on input line 320.
+(pdftex.def)             Requested size: 219.08612pt x 212.50012pt.
+ <Antenna1.png, id=91, 216.81pt x 404.26031pt>
+File: Antenna1.png Graphic file (type png)
+
+<use Antenna1.png>
+Package pdftex.def Info: Antenna1.png used on input line 329.
+(pdftex.def)             Requested size: 117.4991pt x 219.08612pt.
+ <Antenna2.jpg, id=92, 395.4775pt x 514.92375pt>
+File: Antenna2.jpg Graphic file (type jpg)
+
+<use Antenna2.jpg>
+Package pdftex.def Info: Antenna2.jpg used on input line 330.
+(pdftex.def)             Requested size: 168.25977pt x 219.08612pt.
+ [19 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/H
+arnessCAD.png (PNG copy)> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Prese
+ntation Media/Paper/Antenna1.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Offici
+al Presentation Media/Paper/Antenna2.jpg>]
+<FunctionalBlockDiagram.png, id=96, 685.6014pt x 534.3162pt>
+File: FunctionalBlockDiagram.png Graphic file (type png)
+
+<use FunctionalBlockDiagram.png>
+Package pdftex.def Info: FunctionalBlockDiagram.png used on input line 341.
+(pdftex.def)             Requested size: 298.75394pt x 232.82516pt.
+
+<Layout2.jpg, id=97, 472.76625pt x 414.54875pt>
+File: Layout2.jpg Graphic file (type jpg)
+ <use Layout2.jpg>
+Package pdftex.def Info: Layout2.jpg used on input line 353.
+(pdftex.def)             Requested size: 227.13441pt x 199.16928pt.
+
+<Layout1.jpg, id=98, 463.7325pt x 489.83pt>
+File: Layout1.jpg Graphic file (type jpg)
+ <use Layout1.jpg>
+Package pdftex.def Info: Layout1.jpg used on input line 353.
+(pdftex.def)             Requested size: 188.5536pt x 199.16928pt.
+File: Layout2.jpg Graphic file (type jpg)
+
+<use Layout2.jpg>
+Package pdftex.def Info: Layout2.jpg used on input line 353.
+(pdftex.def)             Requested size: 227.13441pt x 199.16928pt.
+File: Layout1.jpg Graphic file (type jpg)
+ <use Layout1.jpg>
+Package pdftex.def Info: Layout1.jpg used on input line 353.
+(pdftex.def)             Requested size: 188.5536pt x 199.16928pt.
+ [20 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/F
+unctionalBlockDiagram.png (PNG copy)> <C:/Users/M. Woods III/Dropbox/UNC ReX Of
+ficial Presentation Media/Paper/Layout2.jpg> <C:/Users/M. Woods III/Dropbox/UNC
+ ReX Official Presentation Media/Paper/Layout1.jpg>] <RawAccel.png, id=102, 675
+.9654pt x 431.6928pt>
+File: RawAccel.png Graphic file (type png)
+ <use RawAccel.png>
+Package pdftex.def Info: RawAccel.png used on input line 363.
+(pdftex.def)             Requested size: 275.99164pt x 176.25743pt.
+
+<RawGyro.png, id=103, 675.0018pt x 416.757pt>
+File: RawGyro.png Graphic file (type png)
+ <use RawGyro.png>
+Package pdftex.def Info: RawGyro.png used on input line 365.
+(pdftex.def)             Requested size: 275.99164pt x 170.4009pt.
+
+<RawMag.png, id=104, 675.0018pt x 454.3374pt>
+File: RawMag.png Graphic file (type png)
+ <use RawMag.png>
+Package pdftex.def Info: RawMag.png used on input line 367.
+(pdftex.def)             Requested size: 275.99164pt x 185.76653pt.
+ [21 <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media/Paper/R
+awAccel.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentation Media
+/Paper/RawGyro.png> <C:/Users/M. Woods III/Dropbox/UNC ReX Official Presentatio
+n Media/Paper/RawMag.png>]
+("C:\Users\M. Woods III\Dropbox\UNC ReX Official Presentation Media\Paper\ReX P
+aper.aux") ) 
+Here is how much of TeX's memory you used:
+ 2810 strings out of 494049
+ 37965 string characters out of 3148462
+ 105220 words of memory out of 3000000
+ 6020 multiletter control sequences out of 15000+200000
+ 47364 words of font info for 90 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,13n,43p,2244b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/New folder/fonts/enc/dvips/fontname/8r.enc}<C:/Pr
+ogram Files/New folder/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les/New folder/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/New f
+older/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/New folder/fo
+nts/type1/urw/symbol/usyr.pfb><C:/Program Files/New folder/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Program Files/New folder/fonts/type1/urw/times/utmr8a.pfb><C:/
+Program Files/New folder/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "ReX Paper.pdf" (22 pages, 2613720 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
