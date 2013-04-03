@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-//  Package: heliostat
+//  Package: PROJ_NAME
 //  
 //  File:    ./docs/doxy/main.doxy
 //
@@ -13,14 +13,14 @@
 /*! \file */
 
 /*! 
-\mainpage Heliostat Source Documentation 
+\mainpage PROJ_NAME Source Documentation 
 
 \section intro Introduction
 Detailed documentation coming soon!!!
 
 \page page_eula EULA
 
-\section eula_body Heliostat End User License Agreement
+\section eula_body End User License Agreement
 
 \subsection eula_permissions Permissions:
 Redistribution and use in source and binary forms, with or without
@@ -50,8 +50,8 @@ of the authors and should not be interpreted as representing official policies,
 either expressed or implied, of the FreeBSD Project.
 
 \subsection eula_copyright Copyright
- (C) 2012, Casey Kuhns
- (http://kuhnscasey.github.com/heliostat)
+ (C) 2013, YOUR_NAME
+ (http://github.com/)
  All rights reserved.
 
 */

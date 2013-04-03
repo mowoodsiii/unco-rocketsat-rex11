@@ -1,18 +1,18 @@
 #//////////////////////////////////////////////////////////////////////////////
 #
-#  Package:  unco-heliostat
+#  Package:  unco-PROJ_NAME
 #  
 #  File:     ./sw/CMakeLists.txt
 #
 # /*! \file
 #  *  
-#  *  \brief CMake config file for the kiwi-electrical-cad sw directory.
+#  *  \brief CMake config file for the sw directory.
 #  *
-#  *  \author Daniel Packard (pack3754@gmail.com)
+#  *  \author YOUR_NAME
 #  *  
 #  *  \par Copyright:
-#  *  (C) 2012, Daniel Packard
-#  *  (http://pack3754.github.com/unco-heliostat)
+#  *  (C) 2013, YOUR_NAME
+#  *  (http://github.com/)
 #  *  All rights reserved.
 #  */
 #

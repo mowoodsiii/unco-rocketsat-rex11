@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-//  Package:  heliostat
+//  Package:  PROJ_NAME
 //  
 //  File:     ./include/version.h.in
 //
@@ -8,12 +8,11 @@
  *  
  *  \brief CMake configuration file for version.h.
  *
- *  \author Casey Kuhns	   (kuhnscasey@gmail.com)
- *  \author Daniel Packard (pack3754@gmail.com)
+ *  \author YOUR_NAME
  *  
  *  \par Copyright:
- *  (C) 2012, Casey Kuhns
- *  (http://pack3754.github.com/heliostat)
+ *  (C) 2013, YOUR_NAME
+ *  (http://github.com)
  *  All rights reserved.
  */
 // 

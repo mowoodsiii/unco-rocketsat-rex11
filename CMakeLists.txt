@@ -1,16 +1,16 @@
 #//////////////////////////////////////////////////////////////////////////////
 #
-#  Package:  unco-heliostat
+#  Package:  unco-PROJ_NAME
 #  
 # /*! \file
 #  *  
-#  *  \brief Top-level CMake config file for the 'heliostat' package. 
+#  *  \brief Top-level CMake config file for the 'PROJ_NAME' package. 
 #  *
-#  *  \author Daniel Packard (pack3754@gmail.com)
+#  *  \author <you>
 #  *  
 #  *  \par Copyright:
-#  *  (C) 2013, Daniel Packard
-#  *  (http://pack3754.github.com/unco-heliostat)
+#  *  (C) 2013, <you>
+#  *  (http://pack3754.github.com/PROJ_NAME)
 #  *  All rights reserved.
 #  */
 #
@@ -45,7 +45,7 @@ cmake_minimum_required (VERSION 2.6)
 #
 # project name
 #
-project (heliostat)
+project (PROJ_NAME)
 
 #
 # project version
@@ -82,7 +82,7 @@ set (BUILD_SHARED_LIBS ON)
 #
 # unit tests
 #
-option (build_tests "Build heliostat unit tests." OFF)
+option (build_tests "Build unit tests." OFF)
 
 if(build_tests)
   enable_testing()

@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-//  Package:  heliostat
+//  Package:  PROJ_NAME
 //  
 //  File:     ./_FILENAME_
 //
@@ -8,12 +8,11 @@
  *  
  *  \brief _DESC_
  *
- *  \author Casey Kuhns    (kuhnscasey@gmail.com)
- *  \author Daniel Packard (pack3754@gmail.com)
+ *  \author _YOU_
  *  
  *  \par Copyright:
- *  (C) 2013, Casey Kuhns
- *  (http://kuhnscasey.github.com/heliostat)
+ *  (C) 2013, 
+ *  (http://github.com)
  *  All rights reserved.
  */
 // 
